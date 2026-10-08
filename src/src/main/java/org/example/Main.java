@@ -10,7 +10,6 @@ public class Main {
     Student s1 = new Student("Shreya", 22, "abc@gmail.com");
     System.out.println(s1.name);
     System.out.println(s1.age);
-    System.out.println(s1.email);
 
 
   }
